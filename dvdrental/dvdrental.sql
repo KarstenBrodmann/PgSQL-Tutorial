@@ -3,7 +3,7 @@
 --
 
 -- Dumped from database version 17.2
--- Dumped by pg_dump version 17.2
+-- Dumped by pg_dump version 17.2 (also tested with PostgreSQL 16)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
